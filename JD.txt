@@ -1,0 +1,67 @@
+
+## 🧾 **Job Title:** Software Development Engineer (SDE)
+
+### 📍 Location: Mumbai
+
+### 🕒 Employment Type: Full-Time
+
+### 📅 Experience Level: Entry-Level 
+
+---
+
+### 💼 **About the Role**
+
+We are seeking a passionate and highly skilled **Software Development Engineer (SDE)** to join our growing product and engineering team. You will be responsible for designing, developing, testing, and deploying scalable software solutions that solve real-world problems and deliver seamless user experiences.
+
+You’ll work closely with cross-functional teams—product managers, designers, and other engineers—to build and maintain high-performance systems that power our core offerings.
+
+---
+
+### 🔧 **Key Responsibilities**
+
+* Design, develop, and maintain **high-quality, scalable, and secure software systems**.
+* Collaborate in **agile teams** to deliver end-to-end features across the software stack.
+* Write clean, maintainable code and perform **peer code reviews**.
+* Participate in **design discussions, architecture reviews**, and product planning.
+* Identify performance bottlenecks and implement optimizations.
+* Continuously integrate and deploy code via CI/CD pipelines.
+* Maintain technical documentation and write unit/integration tests.
+
+---
+
+### 🧠 **Required Qualifications**
+
+* Bachelor’s or Master’s degree in **Computer Science, Engineering**, or a related field.
+* Strong foundation in **data structures, algorithms, and object-oriented programming**.
+* Proficiency in at least one programming language such as **Java, Python, C++, JavaScript**, or **Go**.
+* Experience building RESTful APIs, microservices, or scalable backend systems.
+* Solid understanding of **relational and NoSQL databases** (e.g., MySQL, PostgreSQL, MongoDB).
+* Familiarity with **version control systems (Git)** and **DevOps practices**.
+
+---
+
+### 🚀 **Preferred Qualifications (Nice to Have)**
+
+* Experience with **cloud platforms** like AWS, GCP, or Azure.
+* Exposure to **containerization tools** (Docker, Kubernetes).
+* Knowledge of **machine learning, AI, or big data tools**.
+* Contributions to open-source projects or personal technical blogs.
+* Experience in **test-driven development (TDD)** and agile methodologies.
+
+---
+
+### 🌟 **What We Offer**
+
+* Competitive compensation and equity options.
+* Health and wellness benefits.
+* Learning budget and certification reimbursements.
+* Flexible working hours and remote-friendly culture.
+* Opportunity to work with **cutting-edge technologies** and solve complex problems.
+
+---
+
+### 📢 **Why Join Us?**
+
+At \[Company Name], you’re not just writing code—you’re shaping the future of technology. We believe in innovation, ownership, and continuous learning. Join us if you’re excited to build impactful software that reaches millions of users.
+
+

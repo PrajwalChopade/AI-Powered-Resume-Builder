@@ -1,0 +1,72 @@
+/* Custom styles */
+.home {
+  padding: 2rem 0;
+}
+
+.jumbotron {
+  background-color: #f8f9fa;
+  padding: 2rem;
+  border-radius: 0.3rem;
+  margin-bottom: 2rem;
+}
+
+.card {
+  margin-bottom: 1.5rem;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.form-container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #fff;
+  border-radius: 0.3rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.resume-preview {
+  min-height: 500px;
+  border: 1px solid #dee2e6;
+  padding: 1.5rem;
+  margin-top: 1.5rem;
+  background-color: #fff;
+}
+
+.heatmap {
+  position: relative;
+}
+
+.heatmap-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(45deg, rgba(255,0,0,0.1), rgba(0,255,0,0.1));
+  pointer-events: none;
+}
+
+.score-indicator {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.keyword-tag {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  margin: 0.25rem;
+  background-color: #e9ecef;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
+}
+
+.keyword-tag.highlight {
+  background-color: #28a745;
+  color: #fff;
+}
